@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mick-scanlon
-- 👀 I’m interested in Software Development and data science projects, currently working for Fitment Industries!
+- 👀 I’m interested in Software Development and data science projects, looking for a Dev role in data or software.
 - 🌱 I’m working for an international network sercurity company Forcepoint as a Data Analyst and graduated from Marquette University with a Bachelor's degree, majoring in Computer Science and minoring in Data Science
 
 <!---
